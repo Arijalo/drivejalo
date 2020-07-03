@@ -1,8 +1,8 @@
 self.props = {
 	title: 'Index',
 	default_root_id: 'root',
-	client_id: '1088334534324-c970v12qkjvg16rn9somhkp5k7384i2o.apps.googleusercontent.com',
-	client_secret: 'XN-Gi4hVY7JQYp-xpyI-pgsf',
+	client_id: '760374154353-m0d57mv499prumt4urcdssnm0elo049t.apps.googleusercontent.com',
+	client_secret: 'thu5qBgjiV4axFABvSA_jiTM',
 	refresh_token: '',
 	auth: false,
 	user: '',
